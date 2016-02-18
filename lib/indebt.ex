@@ -1,0 +1,2 @@
+defmodule Indebt do
+end
